@@ -1,7 +1,3 @@
-# 📜 Certifications
-
-Here are my completed certificates:
-
 - **Summary Statistics in Public Health**  
   [📄 View Certificate](certificates/Summary%20Statistics%20in%20Public%20health_Yee%20Hao%20Shi%20Hiromi.pdf)
 
